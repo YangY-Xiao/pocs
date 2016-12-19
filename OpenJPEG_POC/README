@@ -1,4 +1,4 @@
-ssues from  #856 to #860  are trigged by the same crash file with different parameters.
+issues from  #856 to #860  are trigged by the same crash file with different parameters.
 #856 ./opj_decompress -i crash -o image.bmp
 #857 ./opj_decompress -i crash -o image.pgm
 #858 ./opj_decompress -i crash -o image.tga
