@@ -1,0 +1,8 @@
+ssues from  #856 to #860  are trigged by the same crash file with different parameters.
+#856 ./opj_decompress -i crash -o image.bmp
+#857 ./opj_decompress -i crash -o image.pgm
+#858 ./opj_decompress -i crash -o image.tga
+#859 ./opj_decompress -i crash -o image.raw
+#860 ./opj_decompress -i crash -o image.pgx
+
+#861 see issue#861 analysis part
